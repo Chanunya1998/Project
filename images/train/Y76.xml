@@ -1,0 +1,26 @@
+<annotation>
+	<folder>noisy</folder>
+	<filename>Y76.jpg</filename>
+	<path>C:\Desktop\yes\noisy\Y76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>527</width>
+		<height>535</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brain_Cancer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>119</ymin>
+			<xmax>342</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>
