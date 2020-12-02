@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yes</folder>
+	<filename>Y257.jpg</filename>
+	<path>C:\Users\Jidapa\Desktop\BSP\brain_tumor_dataset\yes\Y257.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>781</width>
+		<height>960</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brain_Cancer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>496</xmin>
+			<ymin>540</ymin>
+			<xmax>743</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+</annotation>
